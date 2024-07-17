@@ -1,2 +1,1 @@
-# First-Notebook
-Coursera IBM Course Assignment 
+This will serve as my repository for Coursera work. 
